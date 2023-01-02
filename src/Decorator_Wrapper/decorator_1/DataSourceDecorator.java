@@ -1,4 +1,4 @@
-package Decorator_Wrapper.Decorator_1;
+package Decorator_Wrapper.decorator_1;
 
 // Базовый декоратор
 /*

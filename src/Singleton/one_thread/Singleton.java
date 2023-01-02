@@ -1,4 +1,4 @@
-package Singleton.One_thread;
+package Singleton.one_thread;
 
 /*
  * Наивный Одиночка (один поток)

@@ -1,4 +1,4 @@
-package Strategy.Strategy_1;
+package Strategy.strategy_1;
 
 /**
  * Класс заказа. Ничего не знает о том каким способом (стратегией) будет

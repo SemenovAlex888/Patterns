@@ -1,4 +1,4 @@
-package Strategy.Strategy_1;
+package Strategy.strategy_1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

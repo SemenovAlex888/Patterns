@@ -1,4 +1,4 @@
-package Decorator_Wrapper.Decorator_1;
+package Decorator_Wrapper.decorator_1;
 
 /*
 * https://javarush.ru/quests/lectures/questcore.level08.lecture06?post=full#discussion
